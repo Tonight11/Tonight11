@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonight11
 - 👀 I’m interested in creating web-sites and working with team
-- 🌱 I’m currently learning javaScript, and i hope i will get it in 2-3month and start learning React or Vue(i haven`t decide yet)
+- 🌱 I’m currently learning VueJs and a little bit Backend for my own project specifically NodeJS&MongoDB, i have decided to learn Vue, cause it seems very simple and clear to understand
 - 💞️ I’m looking to collaborate on some web-sites with cool animation and functionalities
 - 📫 How to reach me: godofspeedman@gmail.com, inst: stillrememberbarca.
 
