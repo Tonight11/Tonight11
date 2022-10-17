@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tonight11
-- 👀 I’m interested in creating web-sites and working with team
-- 🌱 I’m currently learning VueJs and a little bit Backend for my own project specifically NodeJS&MongoDB, i have decided to learn Vue, cause it seems very simple and clear to understand
-- 💞️ I’m looking to collaborate on some web-sites with cool animation and functionalities
+- 👋 Hi, My names is Bayastan. And i am Kyrgyz. Certanly i have been styding in Russia as a Web Developer for 4 years. That`s a last year tho.
+- 👀 I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them.
+- 🌱 I’m currently learning Nuxt3 after ive learned Vue3&Pinia. I really like Vue 3 much better than React, cause it so simple and understandble to me.
+- 💞️ I’m looking for a job, i am ready start anywhen i will get a message from collaboration or a from company.
 - 📫 How to reach me: godofspeedman@gmail.com, inst: stillrememberbarca.
 
 <!---
