@@ -1,7 +1,7 @@
 - 👋 Hi, My names is Bayastan. And i am Kyrgyz. Certanly i have been styding in Russia as a Web Developer for 4 years. That`s a last year tho.
 - 👀 I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them.
-- 🌱 I’m currently learning Nuxt3 after ive learned Vue3&Pinia. I really like Vue 3 much better than React, cause it so simple and understandble to me.
-- 💞️ I’m looking for a job, i am ready start anywhen i will get a message from collaboration or from a company.
+- 🌱 I have a strong expirence with Vue3&Pinia&Router. Also i have a basic knowledje with Nuxt3&TypeScript.
+- 💞️ I have half a year experience as Vue Developer.
 - 📫 How to reach me: godofspeedman@gmail.com, inst: stillrememberbarca.
 
 <!---
