@@ -4,12 +4,14 @@
 
 <h2>About me:</h2>
 
-<p dir="auto">
   Hi, My names is Bayastan. And i am Kyrgyz. Certanly i have been styding in Russia as a Web Developer for 4 years. That`s a last year tho. <br />
-  I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them. <br />
-  Currently i have base knowledje of Nuxt3&TS. I have a strong expirence with Vue3&Pinia&Router, you can check it in my repo "Front-end e-commerce".
-  I have one and half year experience as Vue Developer
-</p>
+  I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them. I have one and half year experience as Vue Developer <br />
+* Currently i have base knowledje of Nuxt3&TS. <br /> 
+<a href='https://github.com/Tonight11/Pet-Project-Nuxt-3'>"Nuxt3+TS"</a>. <br /> 
+* I have a strong expirence with Vue3&Pinia&Router, you can check it in my repo <br /> 
+<a href='https://github.com/Tonight11/full-stack-e-commerce-frontend'>"Front-end e-commerce"</a>. <br />
+<a href='https://github.com/Tonight11/full-stack-e-commerce-backend'>"Back-end e-commerce"</a>. <br />
+
 
 <h2>Software Skills</h2>
 
