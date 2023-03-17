@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQG10lzbFHfbqg/profile-displaybackgroundimage-shrink_350_1400/0/1673438163257?e=1678924800&v=beta&t=b6YH5i9rvfPLQ50X7uCDRDzqftIWhV4cep1NIETUSbw"/>
+  <img src="https://res.cloudinary.com/dibgzcjci/image/upload/v1679063279/github/Beige_Black_Geometric_Technology_LinkedIn_Banner_gjew6w.png"/>
 </div>
+
 
 <h2>About me:</h2>
 
