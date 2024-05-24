@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/dibgzcjci/image/upload/v1679063279/github/Beige_Black_Geometric_Technology_LinkedIn_Banner_gjew6w.png"/>
+  <img src="https://media.licdn.com/dms/image/D5616AQFC9AROPqGlHQ/profile-displaybackgroundimage-shrink_350_1400/0/1683407718957?e=1721865600&v=beta&t=kHi05jVSy6Ege87kVlRzbHoF11WZIyYuGocg5NR1FJ0"/>
 </div>
 
 
