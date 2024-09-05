@@ -5,14 +5,14 @@
 
 <h2>About me:</h2>
 
-  Hi, My names is Bayastan. And i am Kyrgyz. Certanly i have been working on Berlin company "Timpl" as a Web Developer. I have 4 years exp 2.5 years of them is commercial.<br />
-  I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them. I have 2 and half year experience as Vue Developer <br />
+  Hi, My names is Bayastan. And i am Kyrgyz. Certanly i have been working on International company "OdnaPodpiska" as a Web Developer. I have 3z years commercial exp.<br />
+  I’m interested in creating web-sites and working with proffecional team, so i can gain experience from them. I have 3 year experience as Vue Developer <br />
 * Completed mastering nuxt 3 course. <br /> 
 <a href='https://github.com/Tonight11/Pet-Project-Nuxt-3'>"Nuxt3+TS"</a>. <br /> 
 * I have a strong expirence with Vue3&Pinia&Router, you can check it in my repo <br /> 
 <a href='https://github.com/Tonight11/full-stack-e-commerce-frontend'>"Front-end e-commerce"</a>. <br />
 <a href='https://github.com/Tonight11/full-stack-e-commerce-backend'>"Back-end e-commerce"</a>. <br />
-* Started learning docker
+* Started learning STRAPI
 
 
 <h2>Software Skills</h2>
